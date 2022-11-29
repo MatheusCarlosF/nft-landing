@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 NFT Landing Page - Uma aplicação web que simula um marketplace de NFT's, onde basicamente é possível acompanhar o mercado. Projeto desenvolvido a partir de um layout disponibilizado pela ENDFT.
 
+- Confira o site [online aqui](https://nft-landing-rksxhdelo-matheuscarlosf.vercel.app/)
+
 ## :telephone_receiver: Contato
 
 - [Linkedin](https://www.linkedin.com/in/matheuscarlosf/)
